@@ -153,7 +153,7 @@ OpenSplice appears to be the number two DDS implementation in use, but that is h
 
 TwinOaks's CoreDX DDS implementation is proprietary only, but apparently they specialize in minimal implementations which are able to run on embedded devices and even bare metal.
 
-eProsima's FastRTPS implementation is available on GitHub and is LGPL licensed:
+eProsima's FastRTPS implementation is available on GitHub and is Apache 2.0 licensed:
 
 [https://github.com/eProsima/Fast-RTPS](https://github.com/eProsima/Fast-RTPS)
 
